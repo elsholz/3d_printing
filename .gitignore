@@ -4,3 +4,7 @@ empire_state_building/test.py
 empire_state_building/timed.py
 empire_state_building/center_bottom_long.stl
 empire_state_building/empire_state_building.blend1
+
+*.blend1
+venv
+.idea
