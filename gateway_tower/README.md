@@ -5,7 +5,7 @@ The Gateway tower has 2 different designs. The first design features a glass roo
 First design: TODO
 
 Second design:
-	- width (base): 60.125m x 60.125m
-	- height: 
-		- to tip: 486.6m
-		- to roof: 433.3m
+- width (base): 60.125m x 60.125m
+- height: 
+	- to tip: 486.6m
+	- to roof: 433.3m
