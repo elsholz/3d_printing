@@ -7,4 +7,13 @@ The model includes a socket that fits a GU 10 led lamp.
 The stand has holes to be filled with concrete. 
 One part of the stand has to be mirrored either on x-axis or in y-axis so that both parts fit together.
 
+To print the 44 cm tall main tower, your printer needs to be extended vertically.
+To disable limits on a modified Ender 3 prepend the following gcode to the print gcode file:
+```gcode
+M117 Homing all axes
+G28 ; home axes
+M211 S0 ; turn off Marlin's software endstops
+M117 Disabled endstops 
+```
+
 
