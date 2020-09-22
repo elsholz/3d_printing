@@ -2,7 +2,7 @@
 
 Model of Frankfurt's [Messeturm](https://en.wikipedia.org/wiki/Messeturm) (translates to Trade Fair Tower).
 
-![Printed model image](./messeturm_printed.png)
+![Printed model image](./messeturm_printed_smol.png)
 
 ![Rendering of the tower image](./render_messeturm.png)
 
